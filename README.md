@@ -23,6 +23,7 @@ Weli is a community-driven restaurant ranking app for Amherst, MA. Users sign in
 ### 1. Prerequisites
 
 - Node.js 20+
+
 - A Supabase project (free tier works)
 - A Google Cloud project with the **Maps JavaScript API** and **OAuth 2.0** credentials enabled
 
