@@ -1,6 +1,6 @@
 # Weli
 
-Weli is a community-driven restaurant ranking app for Amherst, MA. Users sign in with Google, score restaurants 1–10, and discover the best spots on an interactive map or ranked list.
+Weli is a community-driven restaurant ranking app for Amherst, MA. Users sign in with Google, score restaurants 1–10, and discover the best spots on an interactive map or ranked list. 
 
 ---
 
